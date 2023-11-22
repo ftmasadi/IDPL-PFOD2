@@ -1,5 +1,6 @@
 # IDPL-PFOD2
 This repository contains IDPL-PFOD2 that is an image dataset of printed Farsi text for Farsi optical character recognition researches.
+
 #IDPL-PFOD Description
 1. Is an artificial image dataset of printed Farsi text.
 2. Has 2003541 images in .png format, and each image contains a line of real Farsi text.
