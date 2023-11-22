@@ -11,9 +11,6 @@ https://drive.google.com/file/d/17ZBP5FwLY2-2yQkd2NpLSbvP_v5BRThm/view?usp=shari
 while the train and validation sets are available in my Google Drive:
 https://drive.google.com/drive/folders/1_X2XPDvQZLPYJxSiaWSF8AceOUWFnWJU?usp=sharing
 
-Please refer to the following article(dataset's article), if you use dataset:
-
-
 We hope that this dataset will be useful to researchers and developers interested in Persian OCR
 technology and natural language processing applications. If you have any questions or feedback about
 the dataset, please feel free to contact us at [fatemeh.asadi@eng.uk.ac.ir].
