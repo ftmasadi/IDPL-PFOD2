@@ -2,6 +2,7 @@
 This repository contains IDPL-PFOD2 that is an image dataset of printed Farsi text for Farsi optical character recognition researches.
 
 Please refer to the following article(dataset's article), if you use dataset:
+
 https://doi.org/10.48550/arXiv.2312.01177
 
 #IDPL-PFOD Description
